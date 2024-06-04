@@ -1,0 +1,164 @@
+@charset "UTF-8";
+
+/*=========== 共通部分============ */
+html{
+    font-size: 100%;
+}
+
+body{
+    font-family:"Koduka Gothic","小塚ゴシック Pr6N","sans-serif" ;
+    color: #65392e;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+.wrapper{
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+/* =======ヘッダー========= */
+header{
+    width: 100%;
+    height: auto;
+}
+
+div.header-content{
+    border-bottom: 5px solid #65392e;
+    display: flex;
+    justify-content: space-between;
+}
+
+img.logo{
+    width: 214px;
+    height:auto;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+.main-nav{
+    display: flex;
+    font-size: 24px;
+    list-style: none;
+    margin-top: 70px;
+}
+
+.main-nav li{
+    margin-right: 40px;
+}
+
+.main-nav a{
+    color: #65392e;
+}
+
+.main-nav a:hover{
+    color: #00dcf0;
+}
+
+/* =======メイン画像========= */
+div.main-visual{
+    background-image: url(../images/main.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 0;
+}
+
+
+/* =======ニュース========= */
+article{
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+h2.news-top{
+    font-size:75px;
+    font-family:serif;
+    text-align: center;
+    margin: 0 auto;
+    color: #fff;
+    background-color: #65392e;
+    margin-bottom: 40px;
+}
+
+div.news-content{
+    border-width: 5px;
+    border-style: solid;
+    border-color: #65392e;
+    margin: 0 50px;
+}
+
+div.news-content ul{
+    overflow: scroll;
+    width: auto;
+    height: 400px;
+}
+
+div.news-content nav ul li{
+    font-size: 30px;
+    line-height: 50px;
+    margin-top: 5%;
+    border-bottom: 1.5px solid #65392e;
+}
+div.news-content nav ul li:last-child{
+    margin-bottom: 5%;
+}
+
+
+div.news-content nav ul li span{
+    font-size: 20px;
+    margin-right: 20px;
+
+}
+
+/* =======オンラインショップ========= */
+aside{
+    background-image: url(../images/shop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 294px;
+    text-align: center;
+
+}
+
+aside a.button{
+    width: 552px;
+    height:auto;
+    color: #fff;
+    font-family: serif;
+    font-size: 62px;
+    background: #65392e;
+    border-radius: 100px;
+    text-align: center;
+    padding: 40px;
+    line-height:20rem;
+
+
+}
+
+aside a.button:hover{
+    opacity: 0.8;
+}
+
+
+
+/* =======フッター========= */
+footer{
+    width: 100%;
+    height: auto;
+    background-color:#65392e;
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer p{
+    color: #fff;
+ line-height: 40px;
+
+}
+

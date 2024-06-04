@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 513.01 210.93">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.18em;
+      }
+
+      .cls-2 {
+        font-size: 23.38px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #65392e;
+        font-family: UDDigiKyokashoNK-B, 'UD Digi Kyokasho NK-B';
+      }
+
+      .cls-5 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-6 {
+        letter-spacing: .02em;
+      }
+
+      .cls-7 {
+        stroke-linejoin: bevel;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke: #956134;
+      }
+
+      .cls-7, .cls-8, .cls-11 {
+        stroke-linecap: round;
+      }
+
+      .cls-7, .cls-9, .cls-11 {
+        stroke-width: 2.83px;
+      }
+
+      .cls-7, .cls-10 {
+        fill: none;
+      }
+
+      .cls-3 {
+        font-size: 23.39px;
+      }
+
+      .cls-8, .cls-12, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-8, .cls-10 {
+        stroke-width: 4.25px;
+      }
+
+      .cls-4 {
+        font-size: 63.29px;
+      }
+
+      .cls-12 {
+        stroke-width: 0px;
+      }
+
+      .cls-13 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-11 {
+        fill: #673a2f;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <path class="cls-8" d="M177.77,184.71c0,10.03-38.8,24.1-87.3,24.1S2.13,194.73,2.13,184.71s39.32-18.16,87.82-18.16,87.82,8.13,87.82,18.16Z"/>
+    <g>
+      <path class="cls-7" d="M157.07,114.56c2.97-8.91,26.06-15.64,26.06,2.18,0,1.49-.21,2.96-.61,4.41-4.31,15.8-30.08,28.26-30.08,28.26"/>
+      <path class="cls-7" d="M156.7,107.55c3.27-8.98,29.4-14.96,29.4,2.99,0,3.69-1.38,7.26-3.58,10.6-8.48,12.88-29.09,22.32-29.09,22.32"/>
+    </g>
+    <g>
+      <path class="cls-12" d="M89.95,87.03c71.27,0,68.3,5.94,65.33,44.55-5.94,41.58-29.69,62.37-65.33,62.37s-59.4-20.79-65.34-62.37c-2.97-38.61-5.95-44.55,65.34-44.55Z"/>
+      <path class="cls-10" d="M155.28,131.59c-5.94,41.58-29.69,62.37-65.33,62.37s-59.4-20.79-65.34-62.37c-2.97-38.61-5.95-44.55,65.34-44.55s68.3,5.94,65.33,44.55Z"/>
+    </g>
+    <ellipse class="cls-11" cx="89.95" cy="101.28" rx="54.94" ry="7.42"/>
+    <circle class="cls-9" cx="122.47" cy="63.24" r="18.53"/>
+    <polygon class="cls-9" points="131.07 2.85 102.88 33.32 141.74 42.97 131.07 2.85"/>
+    <text class="cls-3" transform="translate(109.45 34.06) rotate(6.06) scale(1.35 1)"><tspan x="0" y="0">イ</tspan></text>
+    <text class="cls-3" transform="translate(112.22 70.82) scale(1.08 1)"><tspan x="0" y="0">イ</tspan></text>
+    <rect class="cls-9" x="145.37" y="24.98" width="31.28" height="31.28" transform="translate(23.17 -51.97) rotate(19.73)"/>
+    <text class="cls-2" transform="translate(153.07 52.81) rotate(-17.15) scale(1.03 1)"><tspan x="0" y="0">コ</tspan></text>
+    <text class="cls-4" transform="translate(195.61 174.91)"><tspan x="0" y="0">ik</tspan><tspan class="cls-13" x="57.79" y="0">o</tspan><tspan class="cls-6" x="92.86" y="0">i</tspan><tspan class="cls-5" x="114.89" y="0"> </tspan><tspan class="cls-14" x="125.78" y="0">co</tspan><tspan class="cls-1" x="195.65" y="0">f</tspan><tspan class="cls-14" x="214.14" y="0">f</tspan><tspan x="242.75" y="0">e</tspan></text>
+  </g>
+  <g id="_レイヤー_2-2" data-name="レイヤー 2">
+    <path class="cls-8" d="M177.77,184.71c0,10.03-38.8,24.1-87.3,24.1S2.13,194.73,2.13,184.71s39.32-18.16,87.82-18.16,87.82,8.13,87.82,18.16Z"/>
+    <g>
+      <path class="cls-7" d="M157.07,114.56c2.97-8.91,26.06-15.64,26.06,2.18,0,1.49-.21,2.96-.61,4.41-4.31,15.8-30.08,28.26-30.08,28.26"/>
+      <path class="cls-7" d="M156.7,107.55c3.27-8.98,29.4-14.96,29.4,2.99,0,3.69-1.38,7.26-3.58,10.6-8.48,12.88-29.09,22.32-29.09,22.32"/>
+    </g>
+    <g>
+      <path class="cls-12" d="M89.95,87.03c71.27,0,68.3,5.94,65.33,44.55-5.94,41.58-29.69,62.37-65.33,62.37s-59.4-20.79-65.34-62.37c-2.97-38.61-5.95-44.55,65.34-44.55Z"/>
+      <path class="cls-10" d="M155.28,131.59c-5.94,41.58-29.69,62.37-65.33,62.37s-59.4-20.79-65.34-62.37c-2.97-38.61-5.95-44.55,65.34-44.55s68.3,5.94,65.33,44.55Z"/>
+    </g>
+    <ellipse class="cls-11" cx="89.95" cy="101.28" rx="54.94" ry="7.42"/>
+    <circle class="cls-9" cx="122.47" cy="63.24" r="18.53"/>
+    <polygon class="cls-9" points="131.07 2.85 102.88 33.32 141.74 42.97 131.07 2.85"/>
+    <text class="cls-3" transform="translate(109.45 34.06) rotate(6.06) scale(1.35 1)"><tspan x="0" y="0">イ</tspan></text>
+    <text class="cls-3" transform="translate(112.22 70.82) scale(1.08 1)"><tspan x="0" y="0">イ</tspan></text>
+    <rect class="cls-9" x="145.37" y="24.98" width="31.28" height="31.28" transform="translate(23.17 -51.97) rotate(19.73)"/>
+    <text class="cls-2" transform="translate(153.07 52.81) rotate(-17.15) scale(1.03 1)"><tspan x="0" y="0">コ</tspan></text>
+    <text class="cls-4" transform="translate(195.61 174.91)"><tspan x="0" y="0">ik</tspan><tspan class="cls-13" x="57.79" y="0">o</tspan><tspan class="cls-6" x="92.86" y="0">i</tspan><tspan class="cls-5" x="114.89" y="0"> </tspan><tspan class="cls-14" x="125.78" y="0">co</tspan><tspan class="cls-1" x="195.65" y="0">f</tspan><tspan class="cls-14" x="214.14" y="0">f</tspan><tspan x="242.75" y="0">ee</tspan></text>
+  </g>
+</svg>
